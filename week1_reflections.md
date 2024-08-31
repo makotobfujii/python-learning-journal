@@ -1,6 +1,7 @@
 # What I Learned This Week:
 
 1. Highlevel introduction to the different data structures we will be covering this semester: 
+
 Data Structure | Description 
 --- | ---
 Record | Stores subitems, often called fields, with a name associated with each subitem
